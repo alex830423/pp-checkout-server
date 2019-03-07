@@ -20,8 +20,8 @@ router.get('/thankyou', function(req, res, next) {
 
 
 var CONFIG =  {
-		"CLIENT_ID" :"ATDtSDCij93X_nKgEO_L9L7lpnjGLxl7W3PBqggsHIj1GUcP39eDuEFH6oguUmiesK3EukWadZtkVNWP",
-		"SECRET":"ECeLYuRNOmNndr8GPNd10G8W5afcImSmKgoJgRg7i05IGi1B9gPYM0uxfwDXLmERLpqfKFosRP6AWVeZ",
+		"CLIENT_ID" :"AVkXtxVTYa-8-B3rc3R-V1oDdkKLczfkjQhysVVxdG4aj--k1WOvpfFN5hyP87KE1ve_Tt3tgV7ZgD0y",
+		"SECRET":"EKH_rpKcyiuaoki9p9EDkmqCWtNylpy2B8toZgN-RH3sVULZhaRRA8llOXvJN-bFtVmwsZlQx26y4RDj",
 		"ACCESS_TOKEN_URL":"https://api.sandbox.paypal.com/v1/oauth2/token",
 		"CREATE_PAYMENT_URL":"https://api.sandbox.paypal.com/v1/payments/payment",
 		"EXECUTE_PAYMENT_URL":"https://api.sandbox.paypal.com/v1/payments/payment/{payment_id}/execute/",
