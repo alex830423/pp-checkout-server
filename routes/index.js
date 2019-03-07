@@ -62,7 +62,7 @@ var PAYLOAD = {
       "item_list": {
         "items": [
           {
-            "name": "hat",
+            "name": "hat001",
             "description": "Brown hat.",
             "quantity": "5",
             "price": "3",
@@ -71,7 +71,7 @@ var PAYLOAD = {
             "currency": "USD"
           },
           {
-            "name": "handbag",
+            "name": "handbag002",
             "description": "Black handbag.",
             "quantity": "1",
             "price": "15",
